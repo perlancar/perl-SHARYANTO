@@ -20,9 +20,10 @@ To reiterate, this namespace is for temporary placeholder and not for vanity :)
 
 I encourage other authors to do the same.
 
-=head2 Why not Temp::<CPAN ID>::*?
+=head2 Why not something like Tmp::<CPAN ID>::*?
 
-I haven't decided on whether this is a better idea.
+I haven't decided on what is the best name to use for the "Tmp" part. It should
+be slightly better, in theory.
 
 
 =head1 SEE ALSO
