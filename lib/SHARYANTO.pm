@@ -18,4 +18,17 @@ on it.
 
 To reiterate, this namespace is for temporary placeholder and not for vanity :)
 
+I encourage other authors to do the same.
+
+=head2 Why not Temp::<CPAN ID>::*?
+
+I haven't decided on whether this is a better idea.
+
+
+=head1 SEE ALSO
+
+L<Alt> (where there will similarly be subdivided by CPAN ID's, like
+Alt::INGY::*, Alt::SHARYANTO::*, etc) is slightly different in nature. It is for
+alternate implementation and does not imply a temporary nature.
+
 =cut
