@@ -16,6 +16,9 @@ that haven't found a proper name yet.
 I put such modules on CPAN because some of my other modules (and scripts) depend
 on it.
 
+Over time, some modules have "graduated" from this namespace or be deleted
+altogether.
+
 To reiterate, this namespace is for temporary placeholder and not for vanity :)
 
 I encourage other authors to do the same.
